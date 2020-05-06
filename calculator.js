@@ -13,3 +13,4 @@ else if ( kecocokan == 50 ) {
 else if (kecocokan < 50){
     console.log(`${kecocokan} % Kalian Tidak Berjodoh`)
 }
+Haiii
